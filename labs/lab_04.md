@@ -30,10 +30,6 @@ It will open the repo in a text editor that should look similar to this screensh
 Open the README.md file. To see the rendered preview (if it's not already open), press `Ctrl-Shift-V`; on Mac, use `Cmd-Shift-V`.
 
 ## Step 3 - Explore some keyboard shortcuts
-Edit the README.md file. Add a section titled "Keyboard shortcuts" listing several keyboard shortcuts you already use frequently (if any) and three more shortcuts you would like to start using. Feel free to search for common keyboard shortcuts.
-
-For example:
-```markdown
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
@@ -44,7 +40,6 @@ Shortcuts I would like to start using:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t have those midifier keys, but it sounds impressive)
-```
 
 
 ## Step 4 - Search
