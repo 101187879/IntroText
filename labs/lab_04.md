@@ -109,12 +109,9 @@ Try searching using the following regex patterns. Enable regex search by togglin
 ### Step 5.2
 Go back to the `README.md` file and add a new section near the bottom titled **More Resources**, with a link to your new `links.md` file.
 
-   Example:
+   ## More Resources
 
-  ```markdown
-  ## More Resources
-
-  Check out the [Useful Resources](links.md) page for useful links.
+Check out the [Useful Resources](links.md) page for useful links.
   ```
 
 ## Committing the changes
